@@ -1,0 +1,35 @@
+<NotepadPlus>
+    <Project name="DjangoApp">
+        <Folder name="accounts">
+            <Folder name="migrations">
+                <File name="DjangoApp\accounts\migrations\__init__.py" />
+            </Folder>
+            <File name="DjangoApp\accounts\admin.py" />
+            <File name="DjangoApp\accounts\apps.py" />
+            <File name="DjangoApp\accounts\models.py" />
+            <File name="DjangoApp\accounts\tests.py" />
+            <File name="DjangoApp\accounts\views.py" />
+            <File name="DjangoApp\accounts\__init__.py" />
+        </Folder>
+        <Folder name="mysite">
+            <Folder name="templates">
+                <File name="DjangoApp\mysite\templates\base.html" />
+                <File name="DjangoApp\mysite\templates\current_datetime.html" />
+                <File name="DjangoApp\mysite\templates\hours_ahead.html" />
+                <File name="DjangoApp\mysite\templates\search_form.html" />
+            </Folder>
+            <File name="DjangoApp\mysite\settings.py" />
+            <File name="DjangoApp\mysite\settings.pyc" />
+            <File name="DjangoApp\mysite\urls.py" />
+            <File name="DjangoApp\mysite\urls.pyc" />
+            <File name="DjangoApp\mysite\views.py" />
+            <File name="DjangoApp\mysite\views.pyc" />
+            <File name="DjangoApp\mysite\wsgi.py" />
+            <File name="DjangoApp\mysite\wsgi.pyc" />
+            <File name="DjangoApp\mysite\__init__.py" />
+            <File name="DjangoApp\mysite\__init__.pyc" />
+        </Folder>
+        <File name="DjangoApp\db.sqlite3" />
+        <File name="DjangoApp\manage.py" />
+    </Project>
+</NotepadPlus>
